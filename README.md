@@ -1,4 +1,4 @@
-# Image Smoothing and Sharpening Using OpenCV
+# Exp no:5- Image Smoothing and Sharpening Using OpenCV
 
 ## Aim
 
@@ -151,6 +151,14 @@ plt.show()
 
 ```
 # Output
+<img width="741" height="595" alt="Screenshot 2026-10-29 103249" src="https://github.com/user-attachments/assets/d9910f38-644e-4242-9131-5bffcd9a6406" />
+<img width="880" height="455" alt="Screenshot 2026-10-29 103256" src="https://github.com/user-attachments/assets/d44bba92-63ea-4250-8248-c199023df1d8" />
+<img width="772" height="440" alt="Screenshot 2026-10-29 103303" src="https://github.com/user-attachments/assets/1d11caf0-05f8-41ca-af79-3204c9e50566" />
+<img width="930" height="592" alt="Screenshot 2026-10-29 103311" src="https://github.com/user-attachments/assets/d908f9fe-93a3-49dd-9f4e-623cfca2897a" />
+<img width="691" height="445" alt="Screenshot 2026-10-29 103317" src="https://github.com/user-attachments/assets/73ec2d36-0151-41d2-b8a0-02278011aa1b" />
+<img width="1412" height="452" alt="Screenshot 2026-10-29 103326" src="https://github.com/user-attachments/assets/ce98e8b0-bada-4fc5-8d96-9d402ff69a4a" />
+
+
 
 
 
